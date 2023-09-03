@@ -32,4 +32,4 @@ print("PRograMaCioN".lower())    #".lower"  Convirte todo el texto en minusculas
 
 print("\n\n\njitomate\nAguacate\nJamon\nHuevo")        # "\n" = Salto de linea 
 
-print("\n\nLista de las compras:\n\tHuevo\n\tAguacate\n\tetc...\n\n")
+print("\n\nLista de las compras:\n\tHuevo\n\tAguacate\n\tetc...\n\n")   #"\t" = Sato de linea
