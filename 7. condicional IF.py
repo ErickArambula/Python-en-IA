@@ -1,4 +1,12 @@
 #*******************************CONDICIONAL IF************************
+#    CONSEJOS
+#  1.Cuidar las sangrias
+#  2.Separar los operadores para no confundirlos
+#  3.  print("....") if x > y else print("....")     //Manera de escribir if else ejn una sola linea 
+#  4.  if x > y:
+#           pass     //Para que el programa lo ignore 
+#
+#*********************************************************************
 
 num1 = 10
 num2 = 20          # "=" es para asignar valor,  "==" es para compaar variables
