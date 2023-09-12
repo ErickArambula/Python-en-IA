@@ -17,7 +17,7 @@ while reinicio:
     try:
         num1 = int(input("Introduce un numero para multiplicar: "))
         num2 = int(input("Introduce otro numero: "))
-    except ValueError:
+    except ValueError:           #ValueError verifica que el tipo de dato sea correcto 
         print("Valor introducido no valido: ")
     else:
         print("El resultado es: ", num1 * num2)
